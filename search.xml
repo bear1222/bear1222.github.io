@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Weird Algorithm</title>
-    <url>/2022/02/14/Weird-Algorithm/</url>
-    <content><![CDATA[<h1 id="Weird-Algorithm"><a href="#Weird-Algorithm" class="headerlink" title="Weird Algorithm"></a>Weird Algorithm</h1><h2 id="題目"><a href="#題目" class="headerlink" title="題目"></a>題目</h2><p><a href="https://cses.fi/problemset/task/1068">Weird Algorithm</a></p>
-<h3 id="題目說明"><a href="#題目說明" class="headerlink" title="題目說明"></a>題目說明</h3><p>有一個演算法，輸入為一正整數n。若n是偶數，此演算法會將它除以2，若n為奇數，此演算法會將它乘以3再加一。此演算法會不斷重複，直到n變為1。<br>請輸出此演算法的執行過程。</p>
-<h3 id="輸入範圍"><a href="#輸入範圍" class="headerlink" title="輸入範圍"></a>輸入範圍</h3><p>1≤n≤10^6^</p>
-<h3 id="範例"><a href="#範例" class="headerlink" title="範例"></a>範例</h3><p>Input:<br>3<br>Output:<br>3 10 5 16 8 4 2 1</p>
-<h2 id="作法"><a href="#作法" class="headerlink" title="作法"></a>作法</h2><p>根據題目說明實際模擬</p>
-<h2 id="程式碼"><a href="#程式碼" class="headerlink" title="程式碼"></a>程式碼</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="type">long</span> <span class="type">long</span> <span class="type">int</span> n;</span><br><span class="line">    <span class="built_in">scanf</span>(<span class="string">&quot;%lld&quot;</span>,&amp;n);</span><br><span class="line">    <span class="keyword">while</span>(n!=<span class="number">1</span>)&#123;</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;%lld &quot;</span>,n);</span><br><span class="line">        <span class="keyword">if</span>(n%<span class="number">2</span>==<span class="number">0</span>)&#123;</span><br><span class="line">            n/=<span class="number">2</span>;</span><br><span class="line">        &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">            n=n*<span class="number">3</span>+<span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;1&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>程式競賽</category>
-      </categories>
-      <tags>
-        <tag>CSES</tag>
-        <tag>Introductory Problems</tag>
-      </tags>
+    <title>TOI 1!</title>
+    <url>/2022/04/03/TOI-1/</url>
+    <content><![CDATA[<h2 id="簡述："><a href="#簡述：" class="headerlink" title="簡述："></a>簡述：</h2><p>經過 3&#x2F;13 的初選，我成功進到TOI 一階選訓營，在選訓營內，我除了學到許多程式競賽的相關知識，也了解了其他選手們是如何練習，增強自己的實力，另外，也因此認識許多志同道合的朋友。</p>
+<h2 id="心得："><a href="#心得：" class="headerlink" title="心得："></a>心得：</h2><p>通過選訓營中的各項活動，我認識了許多之前只聽過名字的高手們，不只讓我知道更多學習的管道，未來遇到問題時，也能跟更多人討論。其中，有一項活動是拼圖，因為每個拼圖都是 1000 片的，而選訓營卻只有兩周，因此，在這個過程中，我學習到了如何與其他人分工合作，共同完成每一片拼圖。選訓營結束後，我覺得我高中的競程生涯還蠻可惜的，很多學習的資源都是這期間才知道，這個領域的朋友也都是這時候才認識，接下來到大學前的時間，我會好好利用這些資源，精進我的程式能力，希望接下來在大學的 ICPC，可以彌補高中競程的遺憾。</p>
+]]></content>
   </entry>
   <entry>
     <title>科技應用專題-MZEA</title>
@@ -24,6 +14,8 @@
 <h2 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h2><h3 id="期末書面報告"><a href="#期末書面報告" class="headerlink" title="期末書面報告"></a>期末書面報告</h3><center> <iframe src="https://drive.google.com/file/d/1X5h2xsjKxjToxrx4-DNExzm6QSwsOsf_/preview" width="90%" height="480" allow="autoplay"></iframe></center>
 
 <h3 id="期末報告影片"><a href="#期末報告影片" class="headerlink" title="期末報告影片"></a>期末報告影片</h3><center><iframe width="80%" height="315" src="https://www.youtube.com/embed/GXQkPi-nOM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<h3 id="產品影片"><a href="#產品影片" class="headerlink" title="產品影片"></a>產品影片</h3><center><iframe width="80%" height="315" src="https://www.youtube.com/embed/I8xGsKJ8s3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <h2 id="工作分配表"><a href="#工作分配表" class="headerlink" title="工作分配表"></a>工作分配表</h2><table>
 <thead>
@@ -88,6 +80,11 @@
 <td>製作成果書面報告</td>
 <td>熊恩伶<br>蔡伊甯</td>
 </tr>
+<tr>
+<td>展品影片</td>
+<td>錄製及剪輯產品影片</td>
+<td>熊恩伶<br>蔡伊甯</td>
+</tr>
 </tbody></table>
 <h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>由近期背單字時遇到的困難，發想了此專題題目，藉由將單字隨機打亂，並自動記錄每天需背誦的單字，讓背單字的過程變得簡單且有效率。</p>
 <p>由於之前有上過一些 php 及 sql 的相關課程，因此我負責撰寫多數基本功能，在過程中，我不只更熟悉 php 及 sql 的語法，學到更多的是該如何做取捨。如同存取單字時，我們可以選擇讓任務模式（註一）能運行較快，但需耗費較多空間的方式，抑或是節省存取空間，但須花費較多時間讀取單字，這兩種方法各有利弊，沒有何者一定較好，因此我們必須從各方面考量，選擇較能接受的缺點。</p>
@@ -96,24 +93,6 @@
 ]]></content>
       <categories>
         <category>課程學習成果</category>
-      </categories>
-      <tags>
-        <tag>學習歷程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>自主學習計畫-資訊之芽</title>
-    <url>/2022/02/16/%E8%87%AA%E4%B8%BB%E5%AD%B8%E7%BF%92%E8%A8%88%E7%95%AB-%E8%B3%87%E8%A8%8A%E4%B9%8B%E8%8A%BD/</url>
-    <content><![CDATA[<h1 id="自主學習計畫-資訊之芽"><a href="#自主學習計畫-資訊之芽" class="headerlink" title="自主學習計畫-資訊之芽"></a>自主學習計畫-資訊之芽</h1><h2 id="動機"><a href="#動機" class="headerlink" title="動機"></a>動機</h2><p>這次寒假，我成功通過資訊之芽的入芽考，可以參加下學期的資訊之芽算法班課程，因此我希望能利用自主學習時間，完成資訊之芽的作業，精進自己的程式能力。</p>
-<h2 id="課程簡介"><a href="#課程簡介" class="headerlink" title="課程簡介"></a>課程簡介</h2><p>資訊之芽的課程分為兩個階段，第一個階段的課程是基礎的演算法，如DP、分治、枚舉、基礎圖論等，第二階段的課程則是由學員們投票決定上課的主題，最後的結果包含DP優化、進階圖論、隨機算法及根號算法。</p>
-<h2 id="課程成果"><a href="#課程成果" class="headerlink" title="課程成果"></a>課程成果</h2><h3 id="結業證書"><a href="#結業證書" class="headerlink" title="結業證書"></a>結業證書</h3><center><iframe src="https://drive.google.com/file/d/1Uy6JJJr3cKELk5wSCpH2C67Ojd-SQlhP/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="自主學習成發影片"><a href="#自主學習成發影片" class="headerlink" title="自主學習成發影片"></a>自主學習成發影片</h3><center><iframe width="80%" height="315" src="https://www.youtube.com/embed/o07gdFgR4d0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>這次課程中，經過了每個禮拜作業的練習，讓我對許多原本不知道的演算法及資料結構更加熟悉，也更了解了複雜度的概念及如何估計，讓我知道我在競程這條路上還有許多不足，接下來的時間我會繼續多多練習，希望能在接下來的比賽及APCS取得好成績。</p>
-]]></content>
-      <categories>
-        <category>多元表現</category>
       </categories>
       <tags>
         <tag>學習歷程</tag>
@@ -141,13 +120,31 @@
   <entry>
     <title>網站記錄</title>
     <url>/2022/02/17/%E7%B6%B2%E7%AB%99%E8%A8%98%E9%8C%84/</url>
-    <content><![CDATA[<h1 id="網站記錄"><a href="#網站記錄" class="headerlink" title="網站記錄"></a>網站記錄</h1><h2 id="111-2-13"><a href="#111-2-13" class="headerlink" title="111-2-13"></a>111-2-13</h2><p>安裝hexo<br>了解git的基本操作</p>
-<h2 id="111-2-14"><a href="#111-2-14" class="headerlink" title="111-2-14"></a>111-2-14</h2><p>安裝主題Chic<br>建立第一個post<br>創立category及tag頁面<br>更改css設定，使頁面目錄在較窄的頁面寬度中也能出現，同時控制網頁內容寬度為70%，目錄寬度為15%，以避免頁面目錄及內容重疊</p>
-<h2 id="111-2-15"><a href="#111-2-15" class="headerlink" title="111-2-15"></a>111-2-15</h2><p>大約了解hexo運作的原理<br>找到如何更改首頁profile及網站圖示<br>嘗試加入codeforces的icon但失敗</p>
-<h2 id="111-2-16"><a href="#111-2-16" class="headerlink" title="111-2-16"></a>111-2-16</h2><p>在首頁加入codeforces的icon<br>在頁面中嵌入pdf及youtube影片</p>
+    <content><![CDATA[<h1 id="網站記錄"><a href="#網站記錄" class="headerlink" title="網站記錄"></a>網站記錄</h1><h2 id="2022-2-13"><a href="#2022-2-13" class="headerlink" title="2022-2-13"></a>2022-2-13</h2><p>安裝hexo<br>了解git的基本操作</p>
+<h2 id="2022-2-14"><a href="#2022-2-14" class="headerlink" title="2022-2-14"></a>2022-2-14</h2><p>安裝主題Chic<br>建立第一個post<br>創立category及tag頁面<br>更改css設定，使頁面目錄在較窄的頁面寬度中也能出現，同時控制網頁內容寬度為70%，目錄寬度為15%，以避免頁面目錄及內容重疊</p>
+<h2 id="2022-2-15"><a href="#2022-2-15" class="headerlink" title="2022-2-15"></a>2022-2-15</h2><p>大約了解hexo運作的原理<br>找到如何更改首頁profile及網站圖示<br>嘗試加入codeforces的icon但失敗</p>
+<h2 id="2022-2-16"><a href="#2022-2-16" class="headerlink" title="2022-2-16"></a>2022-2-16</h2><p>在首頁加入codeforces的icon<br>在頁面中嵌入pdf及youtube影片</p>
 ]]></content>
       <categories>
         <category>hexo</category>
       </categories>
+  </entry>
+  <entry>
+    <title>自主學習計畫-資訊之芽</title>
+    <url>/2022/02/16/%E8%87%AA%E4%B8%BB%E5%AD%B8%E7%BF%92%E8%A8%88%E7%95%AB-%E8%B3%87%E8%A8%8A%E4%B9%8B%E8%8A%BD/</url>
+    <content><![CDATA[<h1 id="自主學習計畫-資訊之芽"><a href="#自主學習計畫-資訊之芽" class="headerlink" title="自主學習計畫-資訊之芽"></a>自主學習計畫-資訊之芽</h1><h2 id="動機"><a href="#動機" class="headerlink" title="動機"></a>動機</h2><p>這次寒假，我成功通過資訊之芽的入芽考，可以參加下學期的資訊之芽算法班課程，因此我希望能利用自主學習時間，完成資訊之芽的作業，精進自己的程式能力。</p>
+<h2 id="課程簡介"><a href="#課程簡介" class="headerlink" title="課程簡介"></a>課程簡介</h2><p>資訊之芽的課程分為兩個階段，第一個階段的課程是基礎的演算法，如DP、分治、枚舉、基礎圖論等，第二階段的課程則是由學員們投票決定上課的主題，最後的結果包含DP優化、進階圖論、隨機算法及根號算法。</p>
+<h2 id="課程成果"><a href="#課程成果" class="headerlink" title="課程成果"></a>課程成果</h2><h3 id="結業證書"><a href="#結業證書" class="headerlink" title="結業證書"></a>結業證書</h3><center><iframe src="https://drive.google.com/file/d/1Uy6JJJr3cKELk5wSCpH2C67Ojd-SQlhP/preview" width="90%" height="480" allow="autoplay"></iframe></center>
+
+<h3 id="自主學習成發影片"><a href="#自主學習成發影片" class="headerlink" title="自主學習成發影片"></a>自主學習成發影片</h3><center><iframe width="80%" height="315" src="https://www.youtube.com/embed/o07gdFgR4d0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>這次課程中，經過了每個禮拜作業的練習，讓我對許多原本不知道的演算法及資料結構更加熟悉，也更了解了複雜度的概念及如何估計，讓我知道我在競程這條路上還有許多不足，接下來的時間我會繼續多多練習，希望能在接下來的比賽及APCS取得好成績。</p>
+]]></content>
+      <categories>
+        <category>多元表現</category>
+      </categories>
+      <tags>
+        <tag>學習歷程</tag>
+      </tags>
   </entry>
 </search>
