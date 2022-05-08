@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="author" content="n0 Bear">
+
+
+
+    <meta name="description" content="Hello, this is n0's website.">
+
+
+
+<title>營隊 | n0.Web</title>
+
+
+
+    <link rel="icon" href="/image/bear2.jpg">
+
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+    <!-- scripts list from _config.yml -->
+    
+    <script src="/js/script.js"></script>
+    
+    <script src="/js/tocbot.min.js"></script>
+    
+
+
+
+    
+    
+        
+    
+
+
+<meta name="generator" content="Hexo 6.0.0"></head>
+
+<body>
+    <script>
+        // this function is used to check current theme before page loaded.
+        (() => {
+            const currentTheme = window.localStorage && window.localStorage.getItem('theme') || '';
+            const isDark = currentTheme === 'dark';
+            const pagebody = document.getElementsByTagName('body')[0]
+            if (isDark) {
+                pagebody.classList.add('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Dark"
+            } else {
+                pagebody.classList.remove('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Light"
+            }
+        })();
+    </script>
+
+    <div class="wrapper">
+        <header>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header header-logo"><a href="/">n0&#39;s Web</a></div>
+            <div class="menu navbar-right">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+                <input id="switch_default" type="checkbox" class="switch_default">
+                <label for="switch_default" class="toggleBtn"></label>
+            </div>
+        </div>
+    </nav>
+
+    
+    <nav class="navbar-mobile" id="nav-mobile">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    <a href="/">n0&#39;s Web</a><a id="mobile-toggle-theme">·&nbsp;Light</a>
+                </div>
+                <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+            </div>
+            <div class="menu" id="mobile-menu">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+            </div>
+        </div>
+    </nav>
+
+</header>
+<script>
+    var mobileBtn = function f() {
+        var toggleMenu = document.getElementsByClassName("menu-toggle")[0];
+        var mobileMenu = document.getElementById("mobile-menu");
+        if(toggleMenu.classList.contains("active")){
+           toggleMenu.classList.remove("active")
+            mobileMenu.classList.remove("active")
+        }else{
+            toggleMenu.classList.add("active")
+            mobileMenu.classList.add("active")
+        }
+    }
+</script>
+            <div class="main">
+                <div class="container">
+    
+    
+        <div class="post-toc">
+    <div class="tocbot-list">
+    </div>
+    <div class="tocbot-list-menu">
+        <a class="tocbot-toc-expand" onclick="expand_toc()">Expand all</a>
+        <a onclick="go_top()">Back to top</a>
+        <a onclick="go_bottom()">Go to bottom</a>
+    </div>
+</div>
+
+<script>
+    document.ready(
+        function () {
+            tocbot.init({
+                tocSelector: '.tocbot-list',
+                contentSelector: '.post-content',
+                headingSelector: 'h1, h2, h3, h4, h5',
+                collapseDepth: 1,
+                orderedList: false,
+                scrollSmooth: true,
+            })
+        }
+    )
+
+    function expand_toc() {
+        var b = document.querySelector(".tocbot-toc-expand");
+        tocbot.init({
+            tocSelector: '.tocbot-list',
+            contentSelector: '.post-content',
+            headingSelector: 'h1, h2, h3, h4, h5',
+            collapseDepth: 6,
+            orderedList: false,
+            scrollSmooth: true,
+        });
+        b.setAttribute("onclick", "collapse_toc()");
+        b.innerHTML = "Collapse all"
+    }
+
+    function collapse_toc() {
+        var b = document.querySelector(".tocbot-toc-expand");
+        tocbot.init({
+            tocSelector: '.tocbot-list',
+            contentSelector: '.post-content',
+            headingSelector: 'h1, h2, h3, h4, h5',
+            collapseDepth: 1,
+            orderedList: false,
+            scrollSmooth: true,
+        });
+        b.setAttribute("onclick", "expand_toc()");
+        b.innerHTML = "Expand all"
+    }
+
+    function go_top() {
+        window.scrollTo(0, 0);
+    }
+
+    function go_bottom() {
+        window.scrollTo(0, document.body.scrollHeight);
+    }
+
+</script>
+    
+
+    
+    <article class="post-wrap">
+        <header class="post-header">
+            <h1 class="post-title">營隊</h1>
+            
+                <div class="post-meta">
+                    
+                        Author: <a itemprop="author" rel="author" href="/">n0 Bear</a>
+                    
+
+                    
+                        <span class="post-time">
+                        Date: <a href="#">May 8, 2022&nbsp;&nbsp;14:49:36</a>
+                        </span>
+                    
+                    
+                        <span class="post-category">
+                    Category:
+                            
+                                <a href="/categories/%E5%A4%9A%E5%85%83%E8%A1%A8%E7%8F%BE/">多元表現</a>
+                            
+                        </span>
+                    
+                </div>
+            
+        </header>
+
+        <div class="post-content">
+            <h2 id="簡述"><a href="#簡述" class="headerlink" title="簡述"></a>簡述</h2><p>高二時，我還不確定自己想念電機還是資工，而電機的領域是我目前較少接觸到的，因此我選擇在寒假參加電機的營隊，探索未來方向。在學習了相關的課程後，我發現我還是比較喜歡寫程式，因此確定了我的目標是資工系。</p>
+<p>高三時，我希望利用學測後的時間，精進自己在程式競賽方面的能力，為參加 ICPC 做準備，因此參加了 IOICamp 及SCMS 等營隊，雖然因疫情關係改成線上舉辦，無法實體與其他人見面，但我還是透過營隊的過程學到很多相關的知識。</p>
+<h2 id="中興電資營"><a href="#中興電資營" class="headerlink" title="中興電資營"></a>中興電資營</h2><p>在中興電資營中，我利用邏輯閘製作了簡單的加法器，也學到了基礎的 HTML 標籤，並跟同組成員們一起製作了一個我們小隊的網站。<br><img src="/2022/05/08/%E7%87%9F%E9%9A%8A/6441C492-1591-43EE-9F85-60DB7B175935.jpg"></p>
+<h3 id="小隊網站"><a href="#小隊網站" class="headerlink" title="小隊網站"></a>小隊網站</h3><p><a target="_blank" rel="noopener" href="https://2021-les-miserable-two.on.drv.tw/final/">https://2021-les-miserable-two.on.drv.tw/final/</a></p>
+<h2 id="北科電機營"><a href="#北科電機營" class="headerlink" title="北科電機營"></a>北科電機營</h2><p>在北科電機營中，有三堂課可以選，而我選擇了平時較少接觸的麵包版，課程中用到了許多之前沒看過的元件，如電容、555IC 等，讓我對這些硬體的內容有了基礎的了解。<br><img src="/2022/05/08/%E7%87%9F%E9%9A%8A/4746CE96-D6B8-4950-90B5-0C06976E71B1.jpg"></p>
+<h3 id="成果影片"><a href="#成果影片" class="headerlink" title="成果影片"></a>成果影片</h3><center>
+<iframe src="https://drive.google.com/file/d/1i0qlkmSesSJYMg34Bir5HyQaSKmw7nCA/preview" width="40%" height="200" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1AdhKXIQjq9PlNMWpWxb786hNo0ot0IDH/preview" width="40%" height="200" allow="autoplay"></iframe>
+</center>
+<center>
+<iframe src="https://drive.google.com/file/d/1szRkSa1J601tUp7wzkzasBld7IKdu2gx/preview" width="40%" height="200" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1KuYk-c-cGnJJYje6ga5gZ38LXhegplRx/preview" width="40%" height="200" allow="autoplay"></iframe>
+</center>
+
+<h2 id="IOICamp"><a href="#IOICamp" class="headerlink" title="IOICamp"></a>IOICamp</h2><p>這個營隊是由許多之前 IOI 的國手主辦的，主題幾乎涵蓋了程式競賽的所有類型，如資料結構、數學、圖論、動態規劃、計算幾何、字串等。</p>
+<p>此外，這也是我第一次參加團體賽，雖然因為我的實力還有很大進步空間，對隊伍的貢獻有限，但還是透過這個營隊認識了兩個我的隊友，也了解了團體賽應該如何分配題目、如何和隊友溝通等。</p>
+<p><img src="/2022/05/08/%E7%87%9F%E9%9A%8A/S__18980883.jpg"></p>
+<h2 id="SCMS"><a href="#SCMS" class="headerlink" title="SCMS"></a>SCMS</h2><p>這個營隊主要也是在訓練程式競賽的，多數活動都與IOICamp 相同，但其中有一個特別的活動「真人圖書館」，是由兩個學長來分享他們的練習方式、背後遇到的挫折、及如何克服這些困難。透過這些分享中，我更了解了競程的練習方法，以及打比賽背後的辛苦。<br><img src="/2022/05/08/%E7%87%9F%E9%9A%8A/SCMS.png"></p>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>透過這些營隊，我確定了未來想走的方向，也學到許多相關的知識，同時，也藉此認識了許多志同道合的朋友。接下來的時間，我會繼續加強資工相關的知識，為大學課程做準備。</p>
+<h2 id="證書"><a href="#證書" class="headerlink" title="證書"></a>證書</h2><h3 id="中興電資營-1"><a href="#中興電資營-1" class="headerlink" title="中興電資營"></a>中興電資營</h3><center><iframe src="https://drive.google.com/file/d/1MGt3GkCdD1kNSycKMOnkwTsV-pc4mQG_/preview" width="640" height="480" allow="autoplay"></iframe></center>
+
+<h3 id="北科電機營-1"><a href="#北科電機營-1" class="headerlink" title="北科電機營"></a>北科電機營</h3><center><iframe src="https://drive.google.com/file/d/1OClLApL0FD1Pu-ZAG0j13Jw8qcVYyppx/preview" width="640" height="480" allow="autoplay"></iframe></center>
+
+<h3 id="IOICamp-1"><a href="#IOICamp-1" class="headerlink" title="IOICamp"></a>IOICamp</h3><center><iframe src="https://drive.google.com/file/d/1MaLuMcYQ5DMIQFErZ6hW6DXBsTPRHMAf/preview" width="640" height="480" allow="autoplay"></iframe></center>
+
+<h3 id="SCMS-1"><a href="#SCMS-1" class="headerlink" title="SCMS"></a>SCMS</h3><center><iframe src="https://drive.google.com/file/d/1d3lO2E-nGFAcCgdZzsRQuzJSFTQnaE_G/preview" width="640" height="480" allow="autoplay"></iframe></center>
+        </div>
+
+        
+            <section class="post-copyright">
+                
+                    <p class="copyright-item">
+                        <span>Author:</span>
+                        <span>n0 Bear</span>
+                    </p>
+                
+                
+                
+                    <p class="copyright-item">
+                        <span>License:</span>
+                        <span>Copyright (c) 2019 <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE</span>
+                    </p>
+                
+                
+
+            </section>
+        
+        <section class="post-tags">
+            <div>
+                <span>Tag(s):</span>
+                <span class="tag">
+                    
+                    
+                        <a href="/tags/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/"># 學習歷程</a>
+                    
+                        
+                </span>
+            </div>
+            <div>
+                <a href="javascript:window.history.back();">back</a>
+                <span>· </span>
+                <a href="/">home</a>
+            </div>
+        </section>
+        <section class="post-nav">
+            
+                <a class="prev" rel="prev" href="/2022/05/08/%E8%83%BD%E5%8A%9B%E7%AB%B6%E8%B3%BD%E5%8F%8AAPCS/">能力競賽及APCS</a>
+            
+            
+            <a class="next" rel="next" href="/2022/05/08/%E8%8B%B1%E6%96%87%E6%AA%A2%E5%AE%9A/">英文檢定</a>
+            
+        </section>
+
+
+    </article>
+</div>
+
+            </div>
+            <footer id="footer" class="footer">
+    <div class="copyright">
+        <span>© n0 Bear | Powered by <a href="https://hexo.io" target="_blank">Hexo</a> & <a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic</a></span>
+    </div>
+</footer>
+
+    </div>
+</body>
+
+</html>
