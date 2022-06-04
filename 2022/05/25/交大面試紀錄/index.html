@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="author" content="n0 Bear">
+
+
+
+    <meta name="description" content="Hello, this is n0's website.">
+
+
+
+<title>交大面試紀錄 | n0.Web</title>
+
+
+
+    <link rel="icon" href="/image/bear2.jpg">
+
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+    <!-- scripts list from _config.yml -->
+    
+    <script src="/js/script.js"></script>
+    
+    <script src="/js/tocbot.min.js"></script>
+    
+
+
+
+    
+    
+        
+    
+
+
+<meta name="generator" content="Hexo 6.0.0"></head>
+
+<body>
+    <script>
+        // this function is used to check current theme before page loaded.
+        (() => {
+            const currentTheme = window.localStorage && window.localStorage.getItem('theme') || '';
+            const isDark = currentTheme === 'dark';
+            const pagebody = document.getElementsByTagName('body')[0]
+            if (isDark) {
+                pagebody.classList.add('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Dark"
+            } else {
+                pagebody.classList.remove('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Light"
+            }
+        })();
+    </script>
+
+    <div class="wrapper">
+        <header>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header header-logo"><a href="/">n0.Web</a></div>
+            <div class="menu navbar-right">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+                <input id="switch_default" type="checkbox" class="switch_default">
+                <label for="switch_default" class="toggleBtn"></label>
+            </div>
+        </div>
+    </nav>
+
+    
+    <nav class="navbar-mobile" id="nav-mobile">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    <a href="/">n0.Web</a><a id="mobile-toggle-theme">·&nbsp;Light</a>
+                </div>
+                <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+            </div>
+            <div class="menu" id="mobile-menu">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+            </div>
+        </div>
+    </nav>
+
+</header>
+<script>
+    var mobileBtn = function f() {
+        var toggleMenu = document.getElementsByClassName("menu-toggle")[0];
+        var mobileMenu = document.getElementById("mobile-menu");
+        if(toggleMenu.classList.contains("active")){
+           toggleMenu.classList.remove("active")
+            mobileMenu.classList.remove("active")
+        }else{
+            toggleMenu.classList.add("active")
+            mobileMenu.classList.add("active")
+        }
+    }
+</script>
+            <div class="main">
+                <div class="container">
+    
+    
+        <div class="post-toc">
+    <div class="tocbot-list">
+    </div>
+    <div class="tocbot-list-menu">
+        <a class="tocbot-toc-expand" onclick="expand_toc()">Expand all</a>
+        <a onclick="go_top()">Back to top</a>
+        <a onclick="go_bottom()">Go to bottom</a>
+    </div>
+</div>
+
+<script>
+    document.ready(
+        function () {
+            tocbot.init({
+                tocSelector: '.tocbot-list',
+                contentSelector: '.post-content',
+                headingSelector: 'h1, h2, h3, h4, h5',
+                collapseDepth: 1,
+                orderedList: false,
+                scrollSmooth: true,
+            })
+        }
+    )
+
+    function expand_toc() {
+        var b = document.querySelector(".tocbot-toc-expand");
+        tocbot.init({
+            tocSelector: '.tocbot-list',
+            contentSelector: '.post-content',
+            headingSelector: 'h1, h2, h3, h4, h5',
+            collapseDepth: 6,
+            orderedList: false,
+            scrollSmooth: true,
+        });
+        b.setAttribute("onclick", "collapse_toc()");
+        b.innerHTML = "Collapse all"
+    }
+
+    function collapse_toc() {
+        var b = document.querySelector(".tocbot-toc-expand");
+        tocbot.init({
+            tocSelector: '.tocbot-list',
+            contentSelector: '.post-content',
+            headingSelector: 'h1, h2, h3, h4, h5',
+            collapseDepth: 1,
+            orderedList: false,
+            scrollSmooth: true,
+        });
+        b.setAttribute("onclick", "expand_toc()");
+        b.innerHTML = "Expand all"
+    }
+
+    function go_top() {
+        window.scrollTo(0, 0);
+    }
+
+    function go_bottom() {
+        window.scrollTo(0, document.body.scrollHeight);
+    }
+
+</script>
+    
+
+    
+    <article class="post-wrap">
+        <header class="post-header">
+            <h1 class="post-title">交大面試紀錄</h1>
+            
+                <div class="post-meta">
+                    
+                        Author: <a itemprop="author" rel="author" href="/">n0 Bear</a>
+                    
+
+                    
+                        <span class="post-time">
+                        Date: <a href="#">May 25, 2022&nbsp;&nbsp;19:10:40</a>
+                        </span>
+                    
+                    
+                </div>
+            
+        </header>
+
+        <div class="post-content">
+            <h1 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h1><p>只有一關，有三個教授，總共7分鐘。<br>一開始先一分鐘自我介紹，接下來教授會根據裡面內容跟備審問問題。</p>
+<h1 id="問題"><a href="#問題" class="headerlink" title="問題"></a>問題</h1><ol>
+<li>除了C++以外還有甚麼擅長的語言？<br>我說了因為製作網站，對PHP蠻熟悉的。</li>
+<li>為甚麼選擇用PHP？<br>我說因為學校專題課有教PHP，但現在覺得應該說我們的網站有要用到資料庫的部分。</li>
+<li>練習程式競賽最有成就感的事？<br>我回答高二時剛學完語法和簡單演算法就拿到佳作，蠻有成就感的，也促使我想繼續朝這方向前進。</li>
+<li>印象最深刻的演算法？<br>這題我說了dp，舉例的時候有提到費氏數列，之後就有再被問更深一點的相關問題。</li>
+<li>介紹一下「以CNN進行閩南語轉他國語言之研究」的內容(因為我自我介紹只提到科展，沒講題目，所以看起來教授應該是有先看過我的備審的)<br>我講了我們的作法，後面教授有再問一些更深的問題，像是過程中有遇到甚麼困難之類的，我覺得講得不太好。</li>
+</ol>
+<h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>原本我只要在我面試時間前20分鐘到就好，然後我爸正常發揮，我提前了一個小時，是第一還第二個到的。</p>
+<p>教授問印象最深刻的演算法的時候，明明這題就是鄭詠堯有跟我講過的題目，但清大那時候沒問，我就想說可能交大也不會，結果就燒雞了qq。我一開始想不太到，就有思考一下，後來才想辦法擠出dp。加上科展那邊也講得不太好，一面試完我就覺得希望不高了。</p>
+<p>交大是唯一有在認真計時的，六分鐘的時候就會敲門，七分鐘的時候會直接開門，就算剛好講到一半也會直接被卡掉。</p>
+
+        </div>
+
+        
+            <section class="post-copyright">
+                
+                    <p class="copyright-item">
+                        <span>Author:</span>
+                        <span>n0 Bear</span>
+                    </p>
+                
+                
+                
+                    <p class="copyright-item">
+                        <span>License:</span>
+                        <span>Copyright (c) 2019 <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE</span>
+                    </p>
+                
+                
+
+            </section>
+        
+        <section class="post-tags">
+            <div>
+                <span>Tag(s):</span>
+                <span class="tag">
+                    
+                    
+                        <a href="/tags/%E9%9D%A2%E8%A9%A6/"># 面試</a>
+                    
+                        <a href="/tags/%E5%80%8B%E4%BA%BA%E7%94%B3%E8%AB%8B/"># 個人申請</a>
+                    
+                        
+                </span>
+            </div>
+            <div>
+                <a href="javascript:window.history.back();">back</a>
+                <span>· </span>
+                <a href="/">home</a>
+            </div>
+        </section>
+        <section class="post-nav">
+            
+            
+            <a class="next" rel="next" href="/2022/05/23/%E6%B5%B7%E5%A4%A7%E9%9D%A2%E8%A9%A6%E7%B4%80%E9%8C%84/">海大面試紀錄</a>
+            
+        </section>
+
+
+    </article>
+</div>
+
+            </div>
+            <footer id="footer" class="footer">
+    <div class="copyright">
+        <span>© n0 Bear | Powered by <a href="https://hexo.io" target="_blank">Hexo</a> & <a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic</a></span>
+    </div>
+</footer>
+
+    </div>
+</body>
+
+</html>

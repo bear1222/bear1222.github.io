@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="author" content="n0 Bear">
+
+
+
+    <meta name="description" content="Hello, this is n0's website.">
+
+
+
+<title>海大面試紀錄 | n0.Web</title>
+
+
+
+    <link rel="icon" href="/image/bear2.jpg">
+
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+    <!-- scripts list from _config.yml -->
+    
+    <script src="/js/script.js"></script>
+    
+    <script src="/js/tocbot.min.js"></script>
+    
+
+
+
+    
+    
+        
+    
+
+
+<meta name="generator" content="Hexo 6.0.0"></head>
+
+<body>
+    <script>
+        // this function is used to check current theme before page loaded.
+        (() => {
+            const currentTheme = window.localStorage && window.localStorage.getItem('theme') || '';
+            const isDark = currentTheme === 'dark';
+            const pagebody = document.getElementsByTagName('body')[0]
+            if (isDark) {
+                pagebody.classList.add('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Dark"
+            } else {
+                pagebody.classList.remove('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Light"
+            }
+        })();
+    </script>
+
+    <div class="wrapper">
+        <header>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header header-logo"><a href="/">n0.Web</a></div>
+            <div class="menu navbar-right">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+                <input id="switch_default" type="checkbox" class="switch_default">
+                <label for="switch_default" class="toggleBtn"></label>
+            </div>
+        </div>
+    </nav>
+
+    
+    <nav class="navbar-mobile" id="nav-mobile">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    <a href="/">n0.Web</a><a id="mobile-toggle-theme">·&nbsp;Light</a>
+                </div>
+                <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+            </div>
+            <div class="menu" id="mobile-menu">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+            </div>
+        </div>
+    </nav>
+
+</header>
+<script>
+    var mobileBtn = function f() {
+        var toggleMenu = document.getElementsByClassName("menu-toggle")[0];
+        var mobileMenu = document.getElementById("mobile-menu");
+        if(toggleMenu.classList.contains("active")){
+           toggleMenu.classList.remove("active")
+            mobileMenu.classList.remove("active")
+        }else{
+            toggleMenu.classList.add("active")
+            mobileMenu.classList.add("active")
+        }
+    }
+</script>
+            <div class="main">
+                <div class="container">
+    
+    
+        <div class="post-toc">
+    <div class="tocbot-list">
+    </div>
+    <div class="tocbot-list-menu">
+        <a class="tocbot-toc-expand" onclick="expand_toc()">Expand all</a>
+        <a onclick="go_top()">Back to top</a>
+        <a onclick="go_bottom()">Go to bottom</a>
+    </div>
+</div>
+
+<script>
+    document.ready(
+        function () {
+            tocbot.init({
+                tocSelector: '.tocbot-list',
+                contentSelector: '.post-content',
+                headingSelector: 'h1, h2, h3, h4, h5',
+                collapseDepth: 1,
+                orderedList: false,
+                scrollSmooth: true,
+            })
+        }
+    )
+
+    function expand_toc() {
+        var b = document.querySelector(".tocbot-toc-expand");
+        tocbot.init({
+            tocSelector: '.tocbot-list',
+            contentSelector: '.post-content',
+            headingSelector: 'h1, h2, h3, h4, h5',
+            collapseDepth: 6,
+            orderedList: false,
+            scrollSmooth: true,
+        });
+        b.setAttribute("onclick", "collapse_toc()");
+        b.innerHTML = "Collapse all"
+    }
+
+    function collapse_toc() {
+        var b = document.querySelector(".tocbot-toc-expand");
+        tocbot.init({
+            tocSelector: '.tocbot-list',
+            contentSelector: '.post-content',
+            headingSelector: 'h1, h2, h3, h4, h5',
+            collapseDepth: 1,
+            orderedList: false,
+            scrollSmooth: true,
+        });
+        b.setAttribute("onclick", "expand_toc()");
+        b.innerHTML = "Expand all"
+    }
+
+    function go_top() {
+        window.scrollTo(0, 0);
+    }
+
+    function go_bottom() {
+        window.scrollTo(0, document.body.scrollHeight);
+    }
+
+</script>
+    
+
+    
+    <article class="post-wrap">
+        <header class="post-header">
+            <h1 class="post-title">海大面試紀錄</h1>
+            
+                <div class="post-meta">
+                    
+                        Author: <a itemprop="author" rel="author" href="/">n0 Bear</a>
+                    
+
+                    
+                        <span class="post-time">
+                        Date: <a href="#">May 23, 2022&nbsp;&nbsp;16:50:59</a>
+                        </span>
+                    
+                    
+                </div>
+            
+        </header>
+
+        <div class="post-content">
+            <h1 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h1><p>一關10分鐘，總共兩關，每關都是兩個教授。<br>三個人一組一起面試，都是教授問問題之後輪流回答，不太需要搶答。</p>
+<h1 id="第一關"><a href="#第一關" class="headerlink" title="第一關"></a>第一關</h1><ol>
+<li>簡單講有甚麼特質、經歷適合資工系？<br>A:我覺得我是有毅力的人，因為不管是比賽或做專題都會有bug，要嘗試各種方法解決，balabala，之後就講了我參加過比賽、TOI、做過專題之類的。</li>
+<li>怎麼開始跟如何練習APCS？<br>A:高一上學語法，之後透過網路資源練習之類的，還有說到我覺得練習最重要的是不要覺得過了就好，可以多跟別人討論有沒有更好的做法。</li>
+<li>用簡單的方式說說看甚麼是遞迴？有甚麼樣的應用？<br>A:我是用之前朱德清老師教遞迴時候的方式講(就是假設現在在排隊，想知道自己排第幾個，那當然可以從第一個開始數，就直接知道答案。或者是也可以問前面的「你是第幾個」，只要一直問到第一個，他就會回答1，接下來每個人都往後回傳答案，就可以知道自己是第幾個了)，應用的部分我講了DFS，還有稍微提到可以透過儲存答案來避免重複計算。</li>
+</ol>
+<h1 id="第二關"><a href="#第二關" class="headerlink" title="第二關"></a>第二關</h1><ol>
+<li>30秒自我介紹(其實根本沒計時)<br>這個我原本想說30秒也太短，剛好我是第三個，就想說看前面怎麼說再臨機應變，結果第一個人說他是xxx，來自xx學校，我想說只有30秒而已有必要說這個嗎，之後發現教授好像根本就沒在計時，所以最後我跟另一個人也都是類似這樣說，之後就一樣講了那些參加比賽、做專題的經歷。</li>
+<li>高中數學在資訊領域有什麼樣的應用？<br>這題我覺得我講得蠻爛的，我說dp可以靠矩陣轉移，然後靠矩陣快速冪優化，所以跟矩陣相關，還有人工智慧會用到微積分，感覺這題超級燒雞。</li>
+<li>講一個自己做過最厲害的專題？<br>我講的是這學期做的PDHT，我自己覺得講得蠻完整的，動機跟實作方式都有講到，後來教授有再問說是幾個人一起做，大概做多久之類的。</li>
+<li>之後我有被問科展的內容，不知道是不是因為教授覺得我這樣多回答了一題，就問另外兩個有沒有其他想補充或突顯自己的(可是我其實也蠻想回答這題的qq)。<br>因為我自我介紹的時候有講到科展「以CNN進行閩南語轉他國語言之研究」，教授說他蠻有興趣的，就有讓我大概講一下，之後他問了訓練資料是怎麼來的，我說是我們自己錄音的，教授就說教育部現在有在推動閩南語語料庫之類的。</li>
+</ol>
+<h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>按照他網路上給的時間，我只要在2:10~2:40的時候報到就行，結果我爸媽不知道在緊張甚麼，叫我12:15就要出發了，結果1:40就到海洋，超級問號。</p>
+<p>我本來應該是3:40開始第一關面試，但大概3:10的時候就被叫去了，我還想說是有那麼多人沒來嗎，提前那麼多，結果到樓上之後，還是坐著等到三點四十幾才換我，完全不懂幹嘛那麼早叫。</p>
+<p>第一關的教授基本上就是聽你的想法而已，好像沒什麼反問之類的。第二關的教授比較會根據講的內容，再問更詳細深入的東西。</p>
+
+        </div>
+
+        
+            <section class="post-copyright">
+                
+                    <p class="copyright-item">
+                        <span>Author:</span>
+                        <span>n0 Bear</span>
+                    </p>
+                
+                
+                
+                    <p class="copyright-item">
+                        <span>License:</span>
+                        <span>Copyright (c) 2019 <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE</span>
+                    </p>
+                
+                
+
+            </section>
+        
+        <section class="post-tags">
+            <div>
+                <span>Tag(s):</span>
+                <span class="tag">
+                    
+                    
+                        <a href="/tags/%E9%9D%A2%E8%A9%A6/"># 面試</a>
+                    
+                        <a href="/tags/%E5%80%8B%E4%BA%BA%E7%94%B3%E8%AB%8B/"># 個人申請</a>
+                    
+                        
+                </span>
+            </div>
+            <div>
+                <a href="javascript:window.history.back();">back</a>
+                <span>· </span>
+                <a href="/">home</a>
+            </div>
+        </section>
+        <section class="post-nav">
+            
+                <a class="prev" rel="prev" href="/2022/05/25/%E4%BA%A4%E5%A4%A7%E9%9D%A2%E8%A9%A6%E7%B4%80%E9%8C%84/">交大面試紀錄</a>
+            
+            
+            <a class="next" rel="next" href="/2022/05/22/%E5%80%8B%E4%BA%BA%E7%94%B3%E8%AB%8B%E7%B4%80%E9%8C%84/">個人申請紀錄</a>
+            
+        </section>
+
+
+    </article>
+</div>
+
+            </div>
+            <footer id="footer" class="footer">
+    <div class="copyright">
+        <span>© n0 Bear | Powered by <a href="https://hexo.io" target="_blank">Hexo</a> & <a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic</a></span>
+    </div>
+</footer>
+
+    </div>
+</body>
+
+</html>

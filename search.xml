@@ -1,329 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>台大資訊系統訓練班</title>
-    <url>/2022/03/14/%E5%8F%B0%E5%A4%A7%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1%E8%A8%93%E7%B7%B4%E7%8F%AD/</url>
-    <content><![CDATA[<h2 id="簡述"><a href="#簡述" class="headerlink" title="簡述"></a>簡述</h2><p>除了多數高中生較常接觸的程式競賽外，我希望能多多了解資訊的其他領域，因此，我總共報名了 4 個不同的課程，希望能對資訊的各領域都有基礎的了解。<br>我報名的 4 個課程如下：C&#x2F;C++基礎程式設計、PHP+MySQL 互動式網頁程式設計班、Arduino 入門開發班、JavaScript(ES6)網頁前端工程入門。</p>
-<h2 id="C-x2F-C-基礎程式設計"><a href="#C-x2F-C-基礎程式設計" class="headerlink" title="C&#x2F;C++基礎程式設計"></a>C&#x2F;C++基礎程式設計</h2><p>在這個課程中，除了讓我複習了課堂中學到的 C++基礎語法，也學到了像是 C 語言、指標等，另外，這堂課也讓我有了一些基礎的物件導向的概念，讓我之後在學習一些stl 的資料結構及其他語言時能更快上手。</p>
-<h2 id="PHP-MySQL-互動式網頁程式設計班"><a href="#PHP-MySQL-互動式網頁程式設計班" class="headerlink" title="PHP+MySQL 互動式網頁程式設計班"></a>PHP+MySQL 互動式網頁程式設計班</h2><p>這堂課中，我學到了 html、php、sql 的語法，對資料庫的運用及網站架設都有了基礎的了解，並運用這些語法，製作出了一個期末作業。此外，這堂課也讓我在製作高三上學期時的網站專題能更得心應手。</p>
-<h3 id="期末作業：-因原檔案遺失，此為課程結束後補錄的"><a href="#期末作業：-因原檔案遺失，此為課程結束後補錄的" class="headerlink" title="期末作業：(因原檔案遺失，此為課程結束後補錄的)"></a>期末作業：(因原檔案遺失，此為課程結束後補錄的)</h3><center><iframe src="https://drive.google.com/file/d/1398OWsmRWdmMULUVsrz36sPyuHLz78AS/preview" width="80%" height="315" allow="autoplay"></iframe></center>
-
-
-<h2 id="Arduino-入門開發班"><a href="#Arduino-入門開發班" class="headerlink" title="Arduino 入門開發班"></a>Arduino 入門開發班</h2><p>在這堂課中，我學到了一些 Arduino 元件的用法（如LED 燈、按鈕、七段顯示器等），除此之外，由於練習的過程中需要實際動手接線，讓我對之前學習到的電學相關知識有更深的了解。</p>
-<h2 id="JavaScript-ES6-網頁前端工程入門"><a href="#JavaScript-ES6-網頁前端工程入門" class="headerlink" title="JavaScript(ES6)網頁前端工程入門"></a>JavaScript(ES6)網頁前端工程入門</h2><p>這堂課中，我學到了 html、css、JavaScript 等語法，也了解了如何使用 media query，讓網頁能依螢幕大小的不同，以最適當的方式呈現給使用者，並透過此技術，製作了一個簡單的作業。</p>
-<h3 id="作業影片"><a href="#作業影片" class="headerlink" title="作業影片"></a>作業影片</h3><center><iframe src="https://drive.google.com/file/d/1TBSJENLpILeeXDh06A9MRkHUp1Hq5m7g/preview" width="80%" height="315" allow="autoplay"></iframe></center>
-
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>透過這些課程的學習，我對網站前後端、Arduino、及物件導向概念，都有了基本的了解，讓我之後在學習其他語言時更容易上手，製作專題時，也能減少跟該語言不夠熟悉的問題，把心力花費在如何增加或改進其他功能，未來，我會繼續透過各種管道多方學習，精進自己在資訊領域的能力。</p>
-<h2 id="證書"><a href="#證書" class="headerlink" title="證書"></a>證書</h2><h3 id="C-x2F-C-基礎程式設計-1"><a href="#C-x2F-C-基礎程式設計-1" class="headerlink" title="C&#x2F;C++基礎程式設計"></a>C&#x2F;C++基礎程式設計</h3><center><iframe src="https://drive.google.com/file/d/1EYKatedmKWZwR7ZIOH9XK_rj0yrcC96v/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="PHP-MySQL-互動式網頁程式設計班-1"><a href="#PHP-MySQL-互動式網頁程式設計班-1" class="headerlink" title="PHP+MySQL 互動式網頁程式設計班"></a>PHP+MySQL 互動式網頁程式設計班</h3><center><iframe src="https://drive.google.com/file/d/1oHS-iDMr_8uwvB8QGBCBXhVqrA12myHU/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="Arduino-入門開發班-1"><a href="#Arduino-入門開發班-1" class="headerlink" title="Arduino 入門開發班"></a>Arduino 入門開發班</h3><center><iframe src="https://drive.google.com/file/d/1b9XOCcYj7f5z2d0t6OEn90pUilkF8h5s/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="JavaScript-ES6-網頁前端工程入門-1"><a href="#JavaScript-ES6-網頁前端工程入門-1" class="headerlink" title="JavaScript(ES6)網頁前端工程入門"></a>JavaScript(ES6)網頁前端工程入門</h3><center><iframe src="https://drive.google.com/file/d/18gnE-f9P47eiTYDnQ59vgz6imJGnpIeu/preview" width="90%" height="480" allow="autoplay"></iframe></center>]]></content>
-      <categories>
-        <category>多元表現</category>
-      </categories>
-      <tags>
-        <tag>學習歷程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>TOI 1!</title>
     <url>/2022/04/03/TOI-1/</url>
-    <content><![CDATA[<h2 id="簡述："><a href="#簡述：" class="headerlink" title="簡述："></a>簡述：</h2><p>經過 3&#x2F;13 的初選，我成功進到TOI 一階選訓營，在選訓營內，我除了學到許多程式競賽的相關知識，也了解了其他選手們是如何練習，增強自己的實力，另外，也因此認識許多志同道合的朋友。</p>
-<p><img src="/2022/04/03/TOI-1/S__18874400.jpg"></p>
-<h2 id="心得："><a href="#心得：" class="headerlink" title="心得："></a>心得：</h2><p>通過選訓營中的各項活動，我認識了許多之前只聽過名字的高手們，不只讓我知道更多學習的管道，未來遇到問題時，也能跟更多人討論。其中，有一項活動是拼圖，因為每個拼圖都是 1000 片的，而選訓營卻只有兩周，因此，在這個過程中，我學習到了如何與其他人分工合作，共同完成每一片拼圖。選訓營結束後，我覺得我高中的競程生涯還蠻可惜的，很多學習的資源都是這期間才知道，這個領域的朋友也都是這時候才認識，接下來到大學前的時間，我會好好利用這些資源，精進我的程式能力，希望接下來在大學的 ICPC，可以彌補高中競程的遺憾。</p>
+    <content><![CDATA[<p><img src="/2022/04/03/TOI-1/S__18874400.jpg"></p>
+<h2 id="想不到標題"><a href="#想不到標題" class="headerlink" title="想不到標題"></a>想不到標題</h2><p>初選一出來看到計分板後，很怕前面有一些不是女校的女生，讓我沒辦法卡到女保，幸好最後還真的沒有，有成功進到選訓。</p>
+<p>剛進去的前幾天還蠻不習慣的，感覺很多人都已經很熟了，一整個無法融入。</p>
+<p>後來到波路回來的那天（第三天）晚上，才第一次嘗試去跟大家一起玩，之後就慢慢的透過狼人殺認識蠻多人的。</p>
+<h2 id="狼人殺"><a href="#狼人殺" class="headerlink" title="狼人殺"></a>狼人殺</h2><p>因為真的玩太多狼人殺了，這邊挑重點講。<br>我有一個神奇的週期，一天很雷一天很強，剛好女巫都在雷的時候抽到，導致我三局女巫毒了兩次獵人，一次守衛。<br>第二個禮拜的時候加進了邱比特，總共有邱比特的好像只有6局，其中一局我是邱比特，另外5局我被連了4局情侶，裡面有三局是第三方陣營，每次都我是狼，原本以為第三方陣營很難贏，但這三局居然贏了2局，有夠扯。<br>這邊分享一下第三方陣營狼的心得，盡量要在前幾天白天票掉幾個狼隊友，越快把狼票光，後續越好刀人，也能避免狼隊友隨便刀的時候不小心刀到情侶，你又不知道怎麼保他的狀況。<br>(另外希望不要只有遊戲中的邱比特理我，現實中的邱比特也能眷顧我一下)</p>
+<h2 id="拼圖"><a href="#拼圖" class="headerlink" title="拼圖"></a>拼圖</h2><p>白天的時候如果沒課，一群人（包含我）會到教室後面拼拼圖，1!期間總共拼完了4個，玉山以外的我都有參與，黃惟根本就是爆搜+天空大師，好像幾乎所有天空都是她拼的，好電。<br><img src="/2022/04/03/TOI-1/S__19709977.jpg"></p>
+<h2 id="模考"><a href="#模考" class="headerlink" title="模考"></a>模考</h2><p>因為之前真的沒打過幾次那麼久的比賽，一模嚴重燒雞，有蠻多感覺拿的到的分數都沒拿(雖然拿了好像也不會高多少)，二模狀態感覺好蠻多的，除了D有看出是李超但不會寫很可惜以外，其他該拿的應該都有拿到，還算是能接受的成績(吧</p>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>因為進來的時候就知道不可能進2!，所以一開始的目標就是努力社交，但真的沒想到可以認識那麼多電神，真的很感謝各位，不會因為我太弱就不跟我玩之類的。</p>
+<p>1!結束之後，最後悔的大概就是沒有早點開始認真寫程式吧，感覺高一二有好多時間都荒廢掉了，之前應該多參加IOIC之類的營隊或早點參加資芽，在裡面也應該更努力社交，而不是等學測燒機之後才開始努力，希望接下來申請可以順利上清交，在大學ICPC把高中競程的遺憾都補回來。</p>
+<h2 id="一些有趣的事"><a href="#一些有趣的事" class="headerlink" title="一些有趣的事"></a>一些有趣的事</h2><ol>
+<li>在c209打字特別快</li>
+<li>c209網路真的很得</li>
+<li>原來延長線接延長線不會燒掉</li>
+<li>我們房每天都說要11.前睡但沒成功過</li>
+<li>區間查殺很好玩</li>
+<li>我名字太長(?，所以有人記不住</li>
+</ol>
+<h2 id="新學到的神奇用語"><a href="#新學到的神奇用語" class="headerlink" title="新學到的神奇用語"></a>新學到的神奇用語</h2><ol>
+<li>得(ㄉㄜˊ或ㄉㄟˇ都可)</li>
+<li>49</li>
+</ol>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>最後在這邊祝所有進2!的人都能推薦上台大，申請的人也都上台大，然後如果你們一般組跟APCS組都上的話，希望你們可以選一般組</p>
+<p>ps.前幾天想到一個區間查殺的查法，總共n個人，k隻狼的話，應該可以把n個人分成k+1個區間，每次查一個區間，這樣的話查k+1次至少有一個區間會是全金水，感覺可能會比之前一直查重複區間好(?</p>
 ]]></content>
-      <categories>
-        <category>多元表現</category>
-      </categories>
+  </entry>
+  <entry>
+    <title>交大面試紀錄</title>
+    <url>/2022/05/25/%E4%BA%A4%E5%A4%A7%E9%9D%A2%E8%A9%A6%E7%B4%80%E9%8C%84/</url>
+    <content><![CDATA[<h1 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h1><p>只有一關，有三個教授，總共7分鐘。<br>一開始先一分鐘自我介紹，接下來教授會根據裡面內容跟備審問問題。</p>
+<h1 id="問題"><a href="#問題" class="headerlink" title="問題"></a>問題</h1><ol>
+<li>除了C++以外還有甚麼擅長的語言？<br>我說了因為製作網站，對PHP蠻熟悉的。</li>
+<li>為甚麼選擇用PHP？<br>我說因為學校專題課有教PHP，但現在覺得應該說我們的網站有要用到資料庫的部分。</li>
+<li>練習程式競賽最有成就感的事？<br>我回答高二時剛學完語法和簡單演算法就拿到佳作，蠻有成就感的，也促使我想繼續朝這方向前進。</li>
+<li>印象最深刻的演算法？<br>這題我說了dp，舉例的時候有提到費氏數列，之後就有再被問更深一點的相關問題。</li>
+<li>介紹一下「以CNN進行閩南語轉他國語言之研究」的內容(因為我自我介紹只提到科展，沒講題目，所以看起來教授應該是有先看過我的備審的)<br>我講了我們的作法，後面教授有再問一些更深的問題，像是過程中有遇到甚麼困難之類的，我覺得講得不太好。</li>
+</ol>
+<h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>原本我只要在我面試時間前20分鐘到就好，然後我爸正常發揮，我提前了一個小時，是第一還第二個到的。</p>
+<p>教授問印象最深刻的演算法的時候，明明這題就是鄭詠堯有跟我講過的題目，但清大那時候沒問，我就想說可能交大也不會，結果就燒雞了qq。我一開始想不太到，就有思考一下，後來才想辦法擠出dp。加上科展那邊也講得不太好，一面試完我就覺得希望不高了。</p>
+<p>交大是唯一有在認真計時的，六分鐘的時候就會敲門，七分鐘的時候會直接開門，就算剛好講到一半也會直接被卡掉。</p>
+]]></content>
       <tags>
-        <tag>學習歷程</tag>
+        <tag>面試</tag>
+        <tag>個人申請</tag>
       </tags>
   </entry>
   <entry>
-    <title>營隊</title>
-    <url>/2022/05/08/%E7%87%9F%E9%9A%8A/</url>
-    <content><![CDATA[<h2 id="簡述"><a href="#簡述" class="headerlink" title="簡述"></a>簡述</h2><p>高二時，我還不確定自己想念電機還是資工，而電機的領域是我目前較少接觸到的，因此我選擇在寒假參加電機的營隊，探索未來方向。在學習了相關的課程後，我發現我還是比較喜歡寫程式，因此確定了我的目標是資工系。</p>
-<p>高三時，我希望利用學測後的時間，精進自己在程式競賽方面的能力，為參加 ICPC 做準備，因此參加了 IOICamp 及SCMS 等營隊，雖然因疫情關係改成線上舉辦，無法實體與其他人見面，但我還是透過營隊的過程學到很多相關的知識。</p>
-<h2 id="中興電資營"><a href="#中興電資營" class="headerlink" title="中興電資營"></a>中興電資營</h2><p>在中興電資營中，我利用邏輯閘製作了簡單的加法器，也學到了基礎的 HTML 標籤，並跟同組成員們一起製作了一個我們小隊的網站。<br><img src="/2022/05/08/%E7%87%9F%E9%9A%8A/6441C492-1591-43EE-9F85-60DB7B175935.jpg"></p>
-<h3 id="小隊網站"><a href="#小隊網站" class="headerlink" title="小隊網站"></a>小隊網站</h3><p><a href="https://2021-les-miserable-two.on.drv.tw/final/">https://2021-les-miserable-two.on.drv.tw/final/</a></p>
-<h2 id="北科電機營"><a href="#北科電機營" class="headerlink" title="北科電機營"></a>北科電機營</h2><p>在北科電機營中，有三堂課可以選，而我選擇了平時較少接觸的麵包版，課程中用到了許多之前沒看過的元件，如電容、555IC 等，讓我對這些硬體的內容有了基礎的了解。<br><img src="/2022/05/08/%E7%87%9F%E9%9A%8A/4746CE96-D6B8-4950-90B5-0C06976E71B1.jpg"></p>
-<h3 id="成果影片"><a href="#成果影片" class="headerlink" title="成果影片"></a>成果影片</h3><center>
-<iframe src="https://drive.google.com/file/d/1i0qlkmSesSJYMg34Bir5HyQaSKmw7nCA/preview" width="40%" height="200" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/1AdhKXIQjq9PlNMWpWxb786hNo0ot0IDH/preview" width="40%" height="200" allow="autoplay"></iframe>
-</center>
-<center>
-<iframe src="https://drive.google.com/file/d/1szRkSa1J601tUp7wzkzasBld7IKdu2gx/preview" width="40%" height="200" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/1KuYk-c-cGnJJYje6ga5gZ38LXhegplRx/preview" width="40%" height="200" allow="autoplay"></iframe>
-</center>
-
-<h2 id="IOICamp"><a href="#IOICamp" class="headerlink" title="IOICamp"></a>IOICamp</h2><p>這個營隊是由許多之前 IOI 的國手主辦的，主題幾乎涵蓋了程式競賽的所有類型，如資料結構、數學、圖論、動態規劃、計算幾何、字串等。</p>
-<p>此外，這也是我第一次參加團體賽，雖然因為我的實力還有很大進步空間，對隊伍的貢獻有限，但還是透過這個營隊認識了兩個我的隊友，也了解了團體賽應該如何分配題目、如何和隊友溝通等。</p>
-<p><img src="/2022/05/08/%E7%87%9F%E9%9A%8A/S__18980883.jpg"></p>
-<h2 id="SCMS"><a href="#SCMS" class="headerlink" title="SCMS"></a>SCMS</h2><p>這個營隊主要也是在訓練程式競賽的，多數活動都與IOICamp 相同，但其中有一個特別的活動「真人圖書館」，是由兩個學長來分享他們的練習方式、背後遇到的挫折、及如何克服這些困難。透過這些分享中，我更了解了競程的練習方法，以及打比賽背後的辛苦。<br><img src="/2022/05/08/%E7%87%9F%E9%9A%8A/SCMS.png"></p>
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>透過這些營隊，我確定了未來想走的方向，也學到許多相關的知識，同時，也藉此認識了許多志同道合的朋友。接下來的時間，我會繼續加強資工相關的知識，為大學課程做準備。</p>
-<h2 id="證書"><a href="#證書" class="headerlink" title="證書"></a>證書</h2><h3 id="中興電資營-1"><a href="#中興電資營-1" class="headerlink" title="中興電資營"></a>中興電資營</h3><center><iframe src="https://drive.google.com/file/d/1MGt3GkCdD1kNSycKMOnkwTsV-pc4mQG_/preview" width="640" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="北科電機營-1"><a href="#北科電機營-1" class="headerlink" title="北科電機營"></a>北科電機營</h3><center><iframe src="https://drive.google.com/file/d/1OClLApL0FD1Pu-ZAG0j13Jw8qcVYyppx/preview" width="640" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="IOICamp-1"><a href="#IOICamp-1" class="headerlink" title="IOICamp"></a>IOICamp</h3><center><iframe src="https://drive.google.com/file/d/1MaLuMcYQ5DMIQFErZ6hW6DXBsTPRHMAf/preview" width="640" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="SCMS-1"><a href="#SCMS-1" class="headerlink" title="SCMS"></a>SCMS</h3><center><iframe src="https://drive.google.com/file/d/1d3lO2E-nGFAcCgdZzsRQuzJSFTQnaE_G/preview" width="640" height="480" allow="autoplay"></iframe></center>]]></content>
-      <categories>
-        <category>多元表現</category>
-      </categories>
+    <title>個人申請紀錄</title>
+    <url>/2022/05/22/%E5%80%8B%E4%BA%BA%E7%94%B3%E8%AB%8B%E7%B4%80%E9%8C%84/</url>
+    <content><![CDATA[<h1 id="學測-認真念書"><a href="#學測-認真念書" class="headerlink" title="~學測(認真念書)"></a>~學測(認真念書)</h1><p><img src="/2022/05/22/%E5%80%8B%E4%BA%BA%E7%94%B3%E8%AB%8B%E7%B4%80%E9%8C%84/book.jpg"><br>我自己認為我真的蠻認真的，數自應該都刷了至少3本題本+全部中叢跟大單元+歷屆，英文的話應該有至少20回雜誌社的題本+近5年的學測指考題，國文應該是最混的，基本上只寫完歷屆。</p>
+<p>我自己的目標是英數自15、國文13，一開始對英文答案，對到篇章4題錯了3題就不敢繼續了，之後換數學，發現超級爆炸，冰淇淋居然就錯了，它還導致我另外一題單選猜錯(我是猜單選沒有出現過的選項，但冰淇淋的答案是錯的，所以就2題一起錯，如果冰淇淋對了就會兩題都對qq)，除此之外還有一堆不知道在幹嘛的錯，我對完答案以為只會有8或9，想說可能連apcs組都過不了了。之後國文自然也就不對了，想說反正數學爆了，國文自然15也沒用。</p>
+<h1 id="學測-選訓-拼初選-思考志願"><a href="#學測-選訓-拼初選-思考志願" class="headerlink" title="學測~選訓(拼初選+思考志願)"></a>學測~選訓(拼初選+思考志願)</h1><p>這段時間因為知道數學爆炸，基本上應該會申請apcs組，但我的比賽成績只有2次台北市佳作，感覺就超弱，所以一定要靠女保進選訓才比較有機會，幸好之前有報IOICamp，獲得了超厚的講義，才比較知道該從哪邊開始學。不過現在回想起來，這時候練習的方式很糟，我好像一直執著在學新的東西，在寫cses的時候，看完題目沒多久就去查做法，完全沒練到怎麼思考。</p>
+<p><img src="/2022/05/22/%E5%80%8B%E4%BA%BA%E7%94%B3%E8%AB%8B%E7%B4%80%E9%8C%84/grade.jpg"><br>之後學測成績公布，國英13，自然14，數學10，雖然10也很爛，但因為之前預期的是8或9，所以其實看到的時候超開心(6點多看到簡訊的時候還超怕簡訊是錯的，之後查完成績才比較安心)。之後就開始思考志願要怎麼填，一開始的想法是交清成中興海洋APCS+中山電機全英語組，中間也考慮過中央資工資管APCS組、中正電機資工，台北大學電機資工，後來我看著填志願的網站，感覺全部APCS組比較整齊，就把全部都改成APCS組了XD。(其實還是有點不整齊，因為成大的括號是全形的，有夠不合群)最後的志願是交清成中興台北海洋，全部都是資工APCS組，跳過中央是想說這樣後面的會比較穩。現在想想感覺海洋應該填一般組就可以了，我那時候想說保底應該穩一點，怕一般組被超篩篩掉，但因為超篩看英數自，所以我過的機率其實不低，現在反而因為APCS組名額很少而更不穩。</p>
+<p>接下來就是選訓了，詳細的可以看<a href="https://bear1222.github.io/2022/04/03/TOI-1/">這邊</a>。</p>
+<p>3&#x2F;31的時候是申請一階放榜，台大跟中央的APCS組我也查了一下，這兩間都超級扯，台大居然只要數A8，實作4，中央的話是它有3個APCS的名額，但只有2個人過一階，代表根本只有2個人填，這樣我跳過它的意義在哪???(之後無聊也去查了一下政大的APCS組，他的數學竟然要11，打爆台大XD)</p>
+<h1 id="選訓結束-5-x2F-7-做備審"><a href="#選訓結束-5-x2F-7-做備審" class="headerlink" title="選訓結束~5&#x2F;7(做備審)"></a>選訓結束~5&#x2F;7(做備審)</h1><p>這段時間忙到爆炸，一堆事都卡在一起，多元表現有一堆都是高二應該做的，但我耍廢太久，所以要一次做7個ww，而且原本打算有些要在選訓裡面做，但後來都在拼圖+狼人殺，整個燒雞。除此之外還有一堆有的沒有的報告跟作業(國文+英文+資訊專題+物理)，在此特別感謝蔡10，英文、專題、物理實驗都願意凱瑞我，雖然我們每次都拖到最後一刻(一刻是15分鐘，所以嚴格來說小於一刻，專題到報告前10分鐘還在討論，雖然可能大部分是我的問題XD)，但最後的成果都超強。</p>
+<p>接下來就開始做5月初要交的資料(學習歷程自述+多元綜整心得)，我覺得那種經歷相關或未來規劃都不會太難寫，都是我真的有一些想法的，最難寫的是申請動機，因為實際上的動機就是我想念資工，然後我的分數到這，後來感謝天天提供的意見：把它跟申請動機扣在一起，卡了兩三天的地方才終於有進展。最後特別感謝所有幫我看備審的老師，和芊禕學姊回答了我很多問題+分享備審給我，還有在網路上公開備審的韋詠祥學長，排版真的超好看，我的排版參考他超多。</p>
+<p>這邊開始對108課綱有超多不滿，學習歷程的概念明明就是說把以前學長姊做備審的壓力分散到高一高二，雖然把多元表現積到高三才做是我自己的問題，但高三本來就要做多元綜整心得跟學習歷程自述，最後根本就是高一高二的學習歷程+以前的備審，完全沒有變輕鬆啊(名稱還變超怪，有夠難記)。</p>
+<h1 id="5-x2F-8-5-x2F-25-面試"><a href="#5-x2F-8-5-x2F-25-面試" class="headerlink" title="5&#x2F;8~5&#x2F;25(面試)"></a>5&#x2F;8~5&#x2F;25(面試)</h1><p>這段時間原本只要好好準備面試就好，但後來因為疫情變超級坎坷。</p>
+<p>5&#x2F;8的時候，我媽跟阿嬤快篩陽性，9號pcr也是陽，所以我要隔離到12號，但12號的時候換我爸陽性，直接再加3天，16號的時候終於隔離結束。這邊可以分享一下我跟病毒住一個禮拜還沒確診的心得：我房間不讓任何人進來，到房間外隨時戴著口罩、拿著酒精，要碰任何東西前一定先噴過，除此之外，有一個我覺得容易忽略的地方是，口罩不要放在桌上或任何平常會碰的地方，因為基本上只要一出房間，就要想像空氣中是滿滿的病毒，所以口罩外側是不安全的，我只要一進房間就把口罩掛在門把上，馬上消毒雙手。</p>
+<p>之後因為面試成績對我很重要，如果繼續待在家會換我確診會很燒雞，我媽就讓我去住飯店，幸好我沒有補太多習，之前省的錢都花在這了。</p>
+<p>原本的面試行程是5&#x2F;19成大，5&#x2F;21北科大，5&#x2F;22清大，5&#x2F;23海洋，5&#x2F;25交大，結果成大跟北科大都因為疫情取消，只剩下清大、海洋、交大，最重要(而且感覺最難)的清大就變第一個了，幸好清大的教授都很和善，幫忙的學長姊人也很好，之後就對面試沒那麼害怕了。不過可能因為最難的已經結束，有一種好像全部面試都結束的感覺。</p>
+<p>5&#x2F;23海洋面試，原本以為APCS組應該體驗不到團體面試，但海洋不知道為甚麼是團體面試。我自己覺得我的經歷應該是不輸另外兩個，但面試的表現就不是那麼確定了。現在有點慶幸清大是第一個，感覺最難的已經過去了，所以今天面試幾乎不太會緊張。</p>
+<p>5&#x2F;25交大面試，因為之前有在交叉查榜上查過，發現好像蠻多人學測頗高的，所以交大的希望應該不高，就沒抱甚麼期待的去交大面試。結果面試還真的蠻燒雞的，不過也沒關係啦。</p>
+<h1 id="5-x2F-25-等放榜"><a href="#5-x2F-25-等放榜" class="headerlink" title="5&#x2F;25~(等放榜)"></a>5&#x2F;25~(等放榜)</h1><p>因為在交大等面試的時候，收到了北科大寄的二階成績，然後我是第七名(總共要錄取10個)，所以基本上一定有學校了，就決定開始找其他事做來轉移注意力，所以後來開始拼之前買的拼圖。</p>
+<p>5&#x2F;30，成大、中興、海洋放榜前一天，因為真的超緊張，就在小帳發了那篇祭品文的限動，也就是為甚麼這篇會出現。</p>
+<p>5&#x2F;31，真的要放榜了，超級緊張，我還特別先到行天宮去拜拜，結果在走回家的路上中興就公布了，點開之後發現我是正取2，讓我增加蠻多信心的。之後沒過多久，成大也公布了，是備取1，應該算是安全範圍。接下來就在等海洋，後來它居然說要下午4點才公布，害我整個拼拼圖的過程都超緊張，最後我是正取1，超讚!我有想過我會正取，但沒想到可以是第一名。</p>
+<p>6&#x2F;1，早上台北大學就放榜了，因為昨天海洋跟中興都正取，所以我對台北大學也蠻有信心的，最後也沒意外是正取。從中午開始就超緊張，整個沒辦法拼拼圖，就耍費到了3點，緊張的點開榜單，我原本以為可以備取1或2就不錯了，結果居然正取，</p>
+<p>6&#x2F;2下午5點，交大突然提早放榜(表定公告時間是6&#x2F;3)，沒有意外的沒上，而且備取超後面qq</p>
+]]></content>
       <tags>
-        <tag>學習歷程</tag>
+        <tag>個人申請</tag>
       </tags>
   </entry>
   <entry>
-    <title>實驗物理技術</title>
-    <url>/2022/02/16/%E5%AF%A6%E9%A9%97%E7%89%A9%E7%90%86%E6%8A%80%E8%A1%93/</url>
-    <content><![CDATA[<h1 id="實驗物理技術"><a href="#實驗物理技術" class="headerlink" title="實驗物理技術"></a>實驗物理技術</h1><h2 id="簡述："><a href="#簡述：" class="headerlink" title="簡述："></a>簡述：</h2><p>由於高二的物理課，讓我發現了我對物理的興趣，再加上高二由於疫情影響，沒有機會做實驗，因此這學期的選修課我選擇了實驗物理技術，希望能更了解物理公式，同時熟悉如何操作實驗。<br>這堂課中，我們做了彈力係數測量以及滑車實驗，並分別撰寫了實驗報告。其中，在做完第一次滑車實驗後，我們針對其中可能造成誤差的原因，做了改進的實驗，並寫了修改版的實驗報告。<br>（實驗是同組組員共同操作，但報告是各自撰寫的）</p>
-<h2 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h2><h3 id="彈力係數測量"><a href="#彈力係數測量" class="headerlink" title="彈力係數測量"></a>彈力係數測量</h3><center><iframe src="https://drive.google.com/file/d/1vtoHg73853k88rqaQQhaadL13GEN92jC/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="滑車實驗-初版"><a href="#滑車實驗-初版" class="headerlink" title="滑車實驗(初版)"></a>滑車實驗(初版)</h3><center><iframe src="https://drive.google.com/file/d/14uvqGnRMCQmkxieyKgedvfGXh1RoISnl/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="滑車實驗-修改版"><a href="#滑車實驗-修改版" class="headerlink" title="滑車實驗(修改版)"></a>滑車實驗(修改版)</h3><center><iframe src="https://drive.google.com/file/d/1tVtAforSwppQ24SyzHfPvm2wVDTAhblA/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>在實驗過程中，我學到如何量化我們所要測量的應變變因，並透過各項工具的協助，盡可能的減少操作上的誤差，同時，也學習到如何與同學互助合作。<br>而在撰寫實驗報告時，因為之前有做過資訊科展的經驗，我對報告的編排及內容還算熟悉，但由於之前科展主要是透過訓練模型，提升準確率，與實際動手操作實驗有些不同，因此我學到了該如何處理實驗數據，利用相關圖表，呈現實驗結果，並證明一開始的假設。<br>經過這堂課的學習，我對於如何做實驗及撰寫實驗報告有了更深入的了解，也對物理公式有了更深刻的認識，希望未來相關的實驗與報告都能做得更好。</p>
+    <title>海大面試紀錄</title>
+    <url>/2022/05/23/%E6%B5%B7%E5%A4%A7%E9%9D%A2%E8%A9%A6%E7%B4%80%E9%8C%84/</url>
+    <content><![CDATA[<h1 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h1><p>一關10分鐘，總共兩關，每關都是兩個教授。<br>三個人一組一起面試，都是教授問問題之後輪流回答，不太需要搶答。</p>
+<h1 id="第一關"><a href="#第一關" class="headerlink" title="第一關"></a>第一關</h1><ol>
+<li>簡單講有甚麼特質、經歷適合資工系？<br>A:我覺得我是有毅力的人，因為不管是比賽或做專題都會有bug，要嘗試各種方法解決，balabala，之後就講了我參加過比賽、TOI、做過專題之類的。</li>
+<li>怎麼開始跟如何練習APCS？<br>A:高一上學語法，之後透過網路資源練習之類的，還有說到我覺得練習最重要的是不要覺得過了就好，可以多跟別人討論有沒有更好的做法。</li>
+<li>用簡單的方式說說看甚麼是遞迴？有甚麼樣的應用？<br>A:我是用之前朱德清老師教遞迴時候的方式講(就是假設現在在排隊，想知道自己排第幾個，那當然可以從第一個開始數，就直接知道答案。或者是也可以問前面的「你是第幾個」，只要一直問到第一個，他就會回答1，接下來每個人都往後回傳答案，就可以知道自己是第幾個了)，應用的部分我講了DFS，還有稍微提到可以透過儲存答案來避免重複計算。</li>
+</ol>
+<h1 id="第二關"><a href="#第二關" class="headerlink" title="第二關"></a>第二關</h1><ol>
+<li>30秒自我介紹(其實根本沒計時)<br>這個我原本想說30秒也太短，剛好我是第三個，就想說看前面怎麼說再臨機應變，結果第一個人說他是xxx，來自xx學校，我想說只有30秒而已有必要說這個嗎，之後發現教授好像根本就沒在計時，所以最後我跟另一個人也都是類似這樣說，之後就一樣講了那些參加比賽、做專題的經歷。</li>
+<li>高中數學在資訊領域有什麼樣的應用？<br>這題我覺得我講得蠻爛的，我說dp可以靠矩陣轉移，然後靠矩陣快速冪優化，所以跟矩陣相關，還有人工智慧會用到微積分，感覺這題超級燒雞。</li>
+<li>講一個自己做過最厲害的專題？<br>我講的是這學期做的PDHT，我自己覺得講得蠻完整的，動機跟實作方式都有講到，後來教授有再問說是幾個人一起做，大概做多久之類的。</li>
+<li>之後我有被問科展的內容，不知道是不是因為教授覺得我這樣多回答了一題，就問另外兩個有沒有其他想補充或突顯自己的(可是我其實也蠻想回答這題的qq)。<br>因為我自我介紹的時候有講到科展「以CNN進行閩南語轉他國語言之研究」，教授說他蠻有興趣的，就有讓我大概講一下，之後他問了訓練資料是怎麼來的，我說是我們自己錄音的，教授就說教育部現在有在推動閩南語語料庫之類的。</li>
+</ol>
+<h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>按照他網路上給的時間，我只要在2:10~2:40的時候報到就行，結果我爸媽不知道在緊張甚麼，叫我12:15就要出發了，結果1:40就到海洋，超級問號。</p>
+<p>我本來應該是3:40開始第一關面試，但大概3:10的時候就被叫去了，我還想說是有那麼多人沒來嗎，提前那麼多，結果到樓上之後，還是坐著等到三點四十幾才換我，完全不懂幹嘛那麼早叫。</p>
+<p>第一關的教授基本上就是聽你的想法而已，好像沒什麼反問之類的。第二關的教授比較會根據講的內容，再問更詳細深入的東西。</p>
 ]]></content>
-      <categories>
-        <category>課程學習成果</category>
-      </categories>
       <tags>
-        <tag>學習歷程</tag>
+        <tag>面試</tag>
+        <tag>個人申請</tag>
       </tags>
   </entry>
   <entry>
-    <title>科技應用專題-MZEA</title>
-    <url>/2022/02/15/%E7%A7%91%E6%8A%80%E6%87%89%E7%94%A8%E5%B0%88%E9%A1%8C-MZEA/</url>
-    <content><![CDATA[<h1 id="科技應用專題-MZEA"><a href="#科技應用專題-MZEA" class="headerlink" title="科技應用專題-MZEA"></a>科技應用專題-MZEA</h1><h2 id="簡述"><a href="#簡述" class="headerlink" title="簡述"></a>簡述</h2><p>在這堂專題課中，我與我的組員共同建立了一個智慧型英文學習系統，過程中，我對 php 及 sql 的語法更加熟悉，也對 css 有了基本的了解，讓我更加確定往資訊學群發展的方向。</p>
-<h2 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h2><h3 id="期末書面報告"><a href="#期末書面報告" class="headerlink" title="期末書面報告"></a>期末書面報告</h3><center> <iframe src="https://drive.google.com/file/d/1X5h2xsjKxjToxrx4-DNExzm6QSwsOsf_/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="期末報告影片"><a href="#期末報告影片" class="headerlink" title="期末報告影片"></a>期末報告影片</h3><center><iframe width="80%" height="315" src="https://www.youtube.com/embed/GXQkPi-nOM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<h3 id="產品影片"><a href="#產品影片" class="headerlink" title="產品影片"></a>產品影片</h3><center><iframe width="80%" height="315" src="https://www.youtube.com/embed/I8xGsKJ8s3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<h2 id="工作分配表"><a href="#工作分配表" class="headerlink" title="工作分配表"></a>工作分配表</h2><table>
-<thead>
-<tr>
-<th>項目</th>
-<th>項目詳細內容</th>
-<th>主要負責人</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>題目構想</td>
-<td>在生活中觀察並提出問題</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>資料蒐集與討論</td>
-<td>蒐集與此專題相關之資料並討論網站功能細節與版面</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>程式撰寫</td>
-<td>登入介面（登入、註冊）</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>程式撰寫</td>
-<td>首頁、新增（單字集、類別、單字）、測驗（任務、意思、拼字、訂正）、顯示（以單字集、類別）等功能。</td>
-<td>熊恩伶</td>
-</tr>
-<tr>
-<td>程式撰寫</td>
-<td>忘記密碼、OCR圖片轉文字（框選、爬蟲）等功能。</td>
-<td>蔡伊甯</td>
-</tr>
-<tr>
-<td>網站美工設計</td>
-<td>網站編輯</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>影片錄製</td>
-<td>錄製成果展示影片，進行網站演示</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>影片剪輯</td>
-<td>剪接成果影片</td>
-<td>熊恩伶</td>
-</tr>
-<tr>
-<td>簡報製作</td>
-<td>製作成果發表口頭報告簡報</td>
-<td>蔡伊甯</td>
-</tr>
-<tr>
-<td>口頭報告</td>
-<td>準備並進行發表</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>書面報告</td>
-<td>製作成果書面報告</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>展品影片</td>
-<td>錄製及剪輯產品影片</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-</tbody></table>
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>由近期背單字時遇到的困難，發想了此專題題目，藉由將單字隨機打亂，並自動記錄每天需背誦的單字，讓背單字的過程變得簡單且有效率。</p>
-<p>由於之前有上過一些 php 及 sql 的相關課程，因此我負責撰寫多數基本功能，在過程中，我不只更熟悉 php 及 sql 的語法，學到更多的是該如何做取捨。如同存取單字時，我們可以選擇讓任務模式（註一）能運行較快，但需耗費較多空間的方式，抑或是節省存取空間，但須花費較多時間讀取單字，這兩種方法各有利弊，沒有何者一定較好，因此我們必須從各方面考量，選擇較能接受的缺點。</p>
-<p>這次的專題中，我認為我們的分工很成功，兩人都能發揮各自的專長，讓我們的系統，除了一開始預定要達成的目標以外，還額外新增了許多計畫之外的功能。希望經過持續更新後，能夠真正發布上線。</p>
-<p>註一：任務模式是結合遺忘曲線及間隔式複習的複習方式，在新增該單字的當天，及之後 1&#x2F;3&#x2F;6&#x2F;14 天時，會使用意思模式（顯示英文單字，使用者在心中默想其意思，再在螢幕上選擇答案是否正確的方式）測驗，而相隔 15 天時，會使用拼字模式（顯示中文意思，使用者在螢幕上拼出其對應的單字）進行測驗。</p>
+    <title>清大面試紀錄</title>
+    <url>/2022/05/22/%E6%B8%85%E5%A4%A7%E9%9D%A2%E8%A9%A6%E7%B4%80%E9%8C%84/</url>
+    <content><![CDATA[<h1 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h1><p>分兩關，第一關報告ppt+教授問ppt內容，第二關抽題目回答，兩關都是兩個教授</p>
+<h1 id="第一關"><a href="#第一關" class="headerlink" title="第一關"></a>第一關</h1><p>ppt內容：<a href="https://drive.google.com/file/d/1XHaC13bfEaQV3yIWstWB3u5GKS4ysA_g/view?usp=sharing">https://drive.google.com/file/d/1XHaC13bfEaQV3yIWstWB3u5GKS4ysA_g/view?usp=sharing</a><br>講稿：<a href="https://drive.google.com/file/d/1eGKzYnY2Mms9J0oic8QFVOqnXmue8XAZ/view?usp=sharing">https://drive.google.com/file/d/1eGKzYnY2Mms9J0oic8QFVOqnXmue8XAZ/view?usp=sharing</a><br>教授問題：</p>
+<ol>
+<li>有參加過全國賽嗎？<br>我說因為台北市太多厲害的人了，所以沒有這個機會，教授就說可以進一階就蠻強的了(但我是靠女保混進去的qq)。</li>
+<li>這些作品是自己完成還是與人合作？<br>我回答除了我的網站，其他都是跟別人合作的。</li>
+<li>怎麼會開始做這些作品？<br>我說主要是因為我們學校有資訊的班群，班上的同學大多都是想往電資領域發展，加上有一些專題課的時間，就有機會做這些東西。</li>
+<li>還報了哪些學校？會怎麼選擇？<br>我說還有報交大、成大，他就問我會怎麼選，我說因為清大的系比較廣，如果我想要做跨領域的專題，清大會比較適合。</li>
+<li>有甚麼想問我們的嗎？<br>我問教授清大是怎麼培訓ICPC的選手，教授是說類似社團的形式，主要是學長姐帶學弟妹。</li>
+</ol>
+<h1 id="第二關"><a href="#第二關" class="headerlink" title="第二關"></a>第二關</h1><p>抽問題回答，我抽到的是D：<br>給定一函數，範圍[a,b]，每次可對x詢問F(x)，求最小的F(x)</p>
+<ol>
+<li>如果|F(x)-F(y)|&lt;&#x3D;|x-y|，有沒有比較快的詢問方式？</li>
+<li>如果保證F(x)先遞減再遞增，有沒有比較快的詢問方式？<br>(這邊因為我不覺得我的回答有參考價值，就把它寫在後面)</li>
+</ol>
+<h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>原本這應該是我的第三個面試，結果前兩個(成大、北科大)都取消了，最重要的清大就變第一個了，有夠可怕。</p>
+<p>在進去面試教室之前原本超緊張，但帶我的學長姊都有跟我聊天(順便偷罵交大XD)，讓我放鬆了很多。</p>
+<p>第一關我在報告ppt到一半的時候，計時器突然響了(絕對離5分鐘還有一段時間)，害我有點被嚇到，不過整體來說蠻順利的，該講的都有講完，也沒什麼忘詞之類的。這關整體來說感覺還不錯，比較意外的是沒問甚麼太深入的問題(ex.專題或科展的內容)。</p>
+<p>第二關它的題目描述有點詭異，所以我一開始有點不知道要幹嘛的感覺(希望不是我太笨)，看懂之後第二題我說了三分搜，但第一題還是不太會做，只說了這樣可以保證斜率在+-1之間，之後教授有試著引導我，最後我是說戳中間，然後看要往左還是往右找，我也不知道這到底是不是好的做法。這關真的表現得不怎麼樣，但必須說教授真的人超好，其中一個教授在我說了三分搜之後還裝弱說他不會XD，另一個教授雖然比較嚴肅一點但也不會太兇。</p>
+<p>後來我有問黃仲群第二關第一題，結論是好像一定要把a到b都問過(因為假設全部F(x)都是k，只有某個F(i)是k-1(a&lt;&#x3D;i&lt;&#x3D;b)，那一定要全部問過才能知道是哪個)，但面試過程中我其實有講到這個做法，但教授說這題可以到實數範圍，我才提出前面那個很唬爛的解。(實際情況：我一開始沒想法，教授跟我說不用管時間，我就說那從a問到b，他回我可是這題可以到實數範圍)</p>
 ]]></content>
-      <categories>
-        <category>課程學習成果</category>
-      </categories>
       <tags>
-        <tag>學習歷程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>能力競賽及APCS</title>
-    <url>/2022/05/08/%E8%83%BD%E5%8A%9B%E7%AB%B6%E8%B3%BD%E5%8F%8AAPCS/</url>
-    <content><![CDATA[<h2 id="簡述"><a href="#簡述" class="headerlink" title="簡述"></a>簡述</h2><p>高二時，我參與校內資訊能力競賽，得到三等獎，同時代表學校參與台北市資訊能力競賽，以 38 名獲得佳作。高三時，我參與了校內的數學及資訊能力競賽，數學獲得了佳作，資訊則以第一名的成績獲得一等獎，在台北市資訊能力競賽也進步了 10 名，以 28 名獲得佳作。同時，在APCS檢測中，獲得觀念5級，實作4級的成績。</p>
-<h2 id="照片"><a href="#照片" class="headerlink" title="照片"></a>照片</h2><h3 id="高二"><a href="#高二" class="headerlink" title="高二"></a>高二</h3><p><img src="/2022/05/08/%E8%83%BD%E5%8A%9B%E7%AB%B6%E8%B3%BD%E5%8F%8AAPCS/S__18931736.jpg"><br><img src="/2022/05/08/%E8%83%BD%E5%8A%9B%E7%AB%B6%E8%B3%BD%E5%8F%8AAPCS/S__18931733.jpg"></p>
-<h3 id="高三"><a href="#高三" class="headerlink" title="高三"></a>高三</h3><p><img src="/2022/05/08/%E8%83%BD%E5%8A%9B%E7%AB%B6%E8%B3%BD%E5%8F%8AAPCS/S__18931738.jpg"><br><img src="/2022/05/08/%E8%83%BD%E5%8A%9B%E7%AB%B6%E8%B3%BD%E5%8F%8AAPCS/S__18931735.jpg"></p>
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>高二參加北市賽時，我其實才剛學完基礎的演算法，結果竟然能拿到佳作，讓我認為我在這方面應該是有天分的，接下來，我便開始利用更多的時間，學習更多程式競賽的知識，比較可惜的是，從升高三的暑假開始，重心逐漸轉向學測，有一段時間幾乎沒碰程式，導致原本進步的實力退步了一些，幸好高三的北市賽還是有進步 10 名，同時，我也覺得我比賽時的心態比高二好很多，不會一直擔心別人都會但我不會，而是專注在我能拿到的每一分。接下來我會繼續精進我的競程實力，進到大學後，希望能代表學校參與 ICPC，拿到獎牌。</p>
-]]></content>
-      <categories>
-        <category>多元表現</category>
-      </categories>
-      <tags>
-        <tag>學習歷程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英文檢定</title>
-    <url>/2022/05/08/%E8%8B%B1%E6%96%87%E6%AA%A2%E5%AE%9A/</url>
-    <content><![CDATA[<h2 id="簡述"><a href="#簡述" class="headerlink" title="簡述"></a>簡述</h2><p>高三上學期時，我參加了 10 月的大考聽力測驗，並成功拿到 A 的成績。此外，我報名了 2&#x2F;20 的 TOEIC 檢定，拿到聽力 355、閱讀 405 的成績。未來我會繼續精進我的英文能力，希望之後能達到大學英文免修的門檻。</p>
-<h2 id="大考中心英語聽力測驗"><a href="#大考中心英語聽力測驗" class="headerlink" title="大考中心英語聽力測驗"></a>大考中心英語聽力測驗</h2><p><img src="/2022/05/08/%E8%8B%B1%E6%96%87%E6%AA%A2%E5%AE%9A/%E8%8B%B1%E8%81%BD.jpg"></p>
-<h2 id="多益成績單"><a href="#多益成績單" class="headerlink" title="多益成績單"></a>多益成績單</h2><p><img src="/2022/05/08/%E8%8B%B1%E6%96%87%E6%AA%A2%E5%AE%9A/TOEIC.jpg"></p>
-]]></content>
-      <categories>
-        <category>多元表現</category>
-      </categories>
-      <tags>
-        <tag>學習歷程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>科展</title>
-    <url>/2022/05/08/%E7%A7%91%E5%B1%95/</url>
-    <content><![CDATA[<h2 id="簡述"><a href="#簡述" class="headerlink" title="簡述"></a>簡述</h2><p>隨著全球的交流越來越頻繁，台灣也逐漸國際化，來台的外國人越來越多，但若他們遇上習慣說閩南語的長輩，語言將成為交流上很嚴重的障礙，因此我和另外兩名同學，希望製作一款將閩南語轉為他國語言的軟體，減少語言的影響，促進文化間的交流。<br><img src="/2022/05/08/%E7%A7%91%E5%B1%95/627CE1AC-52C2-41C6-97B8-FC3F019D6E82.jpg"></p>
-<h2 id="實作方法"><a href="#實作方法" class="headerlink" title="實作方法"></a>實作方法</h2><p>我們先選定了幾個用來測試的詞語，接著對每個詞語錄了 26 筆語音資料，再透過 CNN 訓練語音辨識模型，將每個詞對應到其類別，最後透過 Google Translate 套件，將其翻譯為需要的語言。</p>
-<h2 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h2><h3 id="海報"><a href="#海報" class="headerlink" title="海報"></a>海報</h3><center><iframe src="https://drive.google.com/file/d/1JIDe5Fobsgs136dQL9-ZMhf_lPSTWSyr/preview" width="90%" height="400" allow="autoplay"></iframe></center>
-
-<h3 id="書面報告"><a href="#書面報告" class="headerlink" title="書面報告"></a>書面報告</h3><center><iframe src="https://drive.google.com/file/d/1Q-cKJKFquB9_a9Prbdzy1savkmIDP2PN/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h2 id="獎狀"><a href="#獎狀" class="headerlink" title="獎狀"></a>獎狀</h2><h3 id="台北市科展佳作及鄉土教材獎"><a href="#台北市科展佳作及鄉土教材獎" class="headerlink" title="台北市科展佳作及鄉土教材獎"></a>台北市科展佳作及鄉土教材獎</h3><center><iframe src="https://drive.google.com/file/d/1WO4Akb7ut6gfLpBEl4XP5uFkpiRzePai/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="校內科展優等"><a href="#校內科展優等" class="headerlink" title="校內科展優等"></a>校內科展優等</h3><center><iframe src="https://drive.google.com/file/d/1Xst0xHCKG8rJO00Zg3TDWTEdndRmvew1/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>雖然之前有學習過深度學習相關的知識，但這次的過程中，是我第一次將它實際實作出來，雖然因為時間的關係，最後的成果還有一些不足，不過看到自己發想的題目，能夠成功的實作出來，還是很有成就感。</p>
-<p>製作科展的過程中，除了這些知識外，因為我同時還有資訊之芽以及課內的作業需要完成，因此我同時也學到了該如何運用、分配時間。另外，因為這個科展是與其他兩個同學共同完成的，因此我也學到了該如何與同學分工合作，將大家的成果整合在一起。</p>
-]]></content>
-      <categories>
-        <category>多元表現</category>
-      </categories>
-      <tags>
-        <tag>學習歷程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>科技應用專題-PDHT</title>
-    <url>/2022/05/08/%E7%A7%91%E6%8A%80%E6%87%89%E7%94%A8%E5%B0%88%E9%A1%8C-PDHT/</url>
-    <content><![CDATA[<h2 id="簡述"><a href="#簡述" class="headerlink" title="簡述"></a>簡述</h2><p>帕金森氏症患者目前僅能透過醫生、家人目測進行篩檢，不只容易有誤差也難以進行比較。因此我們結合Arduino、App Inventor、PHP、JavaScript製作了此裝置，不僅將測量結果量化，也能將數據視覺化作圖，讓醫生能依據患者狀況，做出更適合的診斷。</p>
-<h2 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h2><h3 id="書面報告"><a href="#書面報告" class="headerlink" title="書面報告"></a>書面報告</h3><center><iframe src="https://drive.google.com/file/d/1BQBocpX3aF3Gztzv571Oby_AkPvOMYBN/preview" width="640" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="Demo及部分程式碼解說影片"><a href="#Demo及部分程式碼解說影片" class="headerlink" title="Demo及部分程式碼解說影片"></a>Demo及部分程式碼解說影片</h3><center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSzNjWJKB30zgGh-B6TCgE2aB8Kf28ZNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<h2 id="工作分配表"><a href="#工作分配表" class="headerlink" title="工作分配表"></a>工作分配表</h2><table>
-<thead>
-<tr>
-<th></th>
-<th>項目說明</th>
-<th>主要負責人</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>題目構想</td>
-<td>在生活中觀察並提出問題</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>資料蒐集與討論</td>
-<td>蒐集與此專題相關之資料，並討論系統功能細節與接線圖、能達到目的的方法</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>程式撰寫</td>
-<td>Arduino、PDHT網站、App Inventor</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>產品製作</td>
-<td>焊接、3D列印、模型製作</td>
-<td>蔡依甯</td>
-</tr>
-<tr>
-<td>影片錄製</td>
-<td>錄製成果展示影片、解說影片</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>簡報製作</td>
-<td>製作成果發表口頭報告簡報</td>
-<td>蔡伊甯</td>
-</tr>
-<tr>
-<td>口頭報告</td>
-<td>準備並進行發表</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-<tr>
-<td>書面報告</td>
-<td>製作成果書面報告</td>
-<td>熊恩伶<br>蔡伊甯</td>
-</tr>
-</tbody></table>
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>這次專題中,我印象最深刻的,是在量化手指開合測驗的數據時,最直觀的方法當然是透過直接測量拇指與食指距離來實現,但因為種種限制,最後使用的方式,是讓食指移動時推動障礙物,超音波感測器用來測量它與障礙物間距離。因此我學到了在達到目的的過程中,若遇到一些阻礙,有時候可以不用直接跟它硬碰硬,可以試著通過其他方法來達成。</p>
-<p>另外,因為這是第二次製作專題了,我覺得我在寫 code 時也有了一些進步,像是有些簡單但很冗長的 code,我會把它包裝在一個 function 裡,這樣不只讓我的 code 變得較簡潔易理解,要 debug 時也較容易。</p>
-<p>最後,雖然我們的專題還有可以再改進的地方,但我認為至少我們的目的都有達成,希望透過未來一步的優化,之後能真正發布上線,幫助帕金森氏症的患者。</p>
-]]></content>
-      <categories>
-        <category>課程學習成果</category>
-      </categories>
-      <tags>
-        <tag>學習歷程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>自主學習計畫-資訊之芽</title>
-    <url>/2022/02/16/%E8%87%AA%E4%B8%BB%E5%AD%B8%E7%BF%92%E8%A8%88%E7%95%AB-%E8%B3%87%E8%A8%8A%E4%B9%8B%E8%8A%BD/</url>
-    <content><![CDATA[<h1 id="自主學習計畫-資訊之芽"><a href="#自主學習計畫-資訊之芽" class="headerlink" title="自主學習計畫-資訊之芽"></a>自主學習計畫-資訊之芽</h1><h2 id="動機"><a href="#動機" class="headerlink" title="動機"></a>動機</h2><p>這次寒假，我成功通過資訊之芽的入芽考，可以參加下學期的資訊之芽算法班課程，因此我希望能利用自主學習時間，完成資訊之芽的作業，精進自己的程式能力。</p>
-<h2 id="課程簡介"><a href="#課程簡介" class="headerlink" title="課程簡介"></a>課程簡介</h2><p>資訊之芽的課程分為兩個階段，第一個階段的課程是基礎的演算法，如DP、分治、枚舉、基礎圖論等，第二階段的課程則是由學員們投票決定上課的主題，最後的結果包含DP優化、進階圖論、隨機算法及根號算法。</p>
-<h2 id="課程成果"><a href="#課程成果" class="headerlink" title="課程成果"></a>課程成果</h2><h3 id="結業證書"><a href="#結業證書" class="headerlink" title="結業證書"></a>結業證書</h3><center><iframe src="https://drive.google.com/file/d/1Uy6JJJr3cKELk5wSCpH2C67Ojd-SQlhP/preview" width="90%" height="480" allow="autoplay"></iframe></center>
-
-<h3 id="自主學習成發影片"><a href="#自主學習成發影片" class="headerlink" title="自主學習成發影片"></a>自主學習成發影片</h3><center><iframe width="80%" height="315" src="https://www.youtube.com/embed/o07gdFgR4d0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>這次課程中，經過了每個禮拜作業的練習，讓我對許多原本不知道的演算法及資料結構更加熟悉，也更了解了複雜度的概念及如何估計，讓我知道我在競程這條路上還有許多不足，接下來的時間我會繼續多多練習，希望能在接下來的比賽及APCS取得好成績。</p>
-]]></content>
-      <categories>
-        <category>多元表現</category>
-      </categories>
-      <tags>
-        <tag>學習歷程</tag>
+        <tag>面試</tag>
+        <tag>個人申請</tag>
       </tags>
   </entry>
 </search>
